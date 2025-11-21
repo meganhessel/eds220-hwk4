@@ -1,14 +1,26 @@
 # eds220-hwk4
 ## False Color Imagery of Eaton and Palisades Fires
+*Author: Megan Hessel*
 
 
 ### About 
+The purpose of this notebook is to use false color imagery to study the impacts of the 2025 Palisades and Eaton wildfires in Los Angeles. In order to accomplish this, we check and manipulate coordinate reference systems. 
 
 
 ### Repository Structure
+Located in my root repository is the main jupyter notebook, README, and the gitignore. 
+
+├── .DS_Store
+├── .gitignore
+├── README.md
+├── fire_picture.webp
+├── hwk4-task2-false-color-HESSEL.ipynb
 
 
 ### Data
+The data is accessible through online plateforms. 
+-  Landsat data: 2025-02-23 Los Angeles landsat8 data; accessible at https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2. 
+-  Palisades and Eaton Dissolved Fire Perimeters: accessible at https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about. 
 
 
 ### References
