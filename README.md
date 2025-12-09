@@ -1,5 +1,5 @@
-# eds220-hwk4
-## False Color Imagery of Eaton and Palisades Fires
+# Analyzing Eaton and Palisades Fire Scars
+## EDS220-hwk4
 *Author: Megan Hessel*
 *Date: December 8, 2025*
 
