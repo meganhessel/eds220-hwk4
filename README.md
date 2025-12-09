@@ -1,6 +1,7 @@
 # Analyzing Eaton and Palisades Fire Scars
 ## EDS220-hwk4
 *Author: Megan Hessel*
+
 *Date: December 8, 2025*
 
 ### About 
@@ -9,14 +10,16 @@ In this project, we use satellite data to create true and false color imagery to
 
 
 ### Repository Structure
-Located in my root repository is the main jupyter notebook, README, the gitignore, and a picture of a wildfire. 
+Located in my root repository is the main jupyter notebooks, README, the gitignore, and a picture of a wildfire. 
+The 'EatonPalisadeFireScars.ipyb' contains all analysis to produce true and false color imagery of the fire scars. The 'UninsuredPop.ipyb' contains analysis of exploring the cenus track information about the population effected by the fires.
 
 ```{python}
 eds220-hwk4 
-├──.DS_Store
-├──.gitignore
-├──fire_picture.jpg
-├── hwk4-task2-false-color-HESSEL.ipynb
+├── .DS_Store
+├── .gitignore
+├── fire_picture.jpg
+├── EatonPalisadeFireScars.ipynb
+├── UninsuredPop.ipynb
 ├── README.md
 ```
 
