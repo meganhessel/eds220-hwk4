@@ -1,4 +1,4 @@
-# Analyzing Eaton and Palisades Fire Scars
+# Analyzing Eaton and Palisades Wildfires
 ### Working with Environmental Data 
 *Author: Megan Hessel*
 
