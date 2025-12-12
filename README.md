@@ -14,7 +14,7 @@ Located in my root repository is the main jupyter notebooks, README, the gitigno
 The 'EatonPalisadeFireScars.ipyb' contains all analysis to produce true and false color imagery of the fire scars. The 'UninsuredPop.ipyb' contains analysis of exploring the cenus track information about the population effected by the fires.
 
 ```{python}
-eds220-hwk4 
+Eaton_Palisades_wildfires
 ├── .gitignore
 ├── fire_picture.jpg
 ├── EatonPalisadeFireScars.ipynb
