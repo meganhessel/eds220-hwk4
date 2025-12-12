@@ -1,5 +1,5 @@
 # Analyzing Eaton and Palisades Fire Scars
-## EDS220-hwk4
+### Working with Environmental Data 
 *Author: Megan Hessel*
 
 *Date: December 8, 2025*
