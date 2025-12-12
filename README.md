@@ -15,7 +15,6 @@ The 'EatonPalisadeFireScars.ipyb' contains all analysis to produce true and fals
 
 ```{python}
 eds220-hwk4 
-├── .DS_Store
 ├── .gitignore
 ├── fire_picture.jpg
 ├── EatonPalisadeFireScars.ipynb
